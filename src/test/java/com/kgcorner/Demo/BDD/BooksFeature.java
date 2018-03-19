@@ -1,10 +1,8 @@
-package com.hyland.Demo.BDD;
+package com.kgcorner.Demo.BDD;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.hyland.Demo.BDD.Model.Book;
-import cucumber.api.PendingException;
-import cucumber.api.java.Before;
+import com.kgcorner.Demo.BDD.Model.Book;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;

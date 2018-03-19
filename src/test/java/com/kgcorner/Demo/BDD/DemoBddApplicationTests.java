@@ -1,4 +1,4 @@
-package com.hyland.Demo.BDD;
+package com.kgcorner.Demo.BDD;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

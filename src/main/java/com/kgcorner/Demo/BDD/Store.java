@@ -1,8 +1,8 @@
-package com.hyland.Demo.BDD;
+package com.kgcorner.Demo.BDD;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.hyland.Demo.BDD.Model.Book;
+import com.kgcorner.Demo.BDD.Model.Book;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

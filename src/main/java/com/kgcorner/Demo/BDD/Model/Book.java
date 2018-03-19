@@ -1,4 +1,4 @@
-package com.hyland.Demo.BDD.Model;
+package com.kgcorner.Demo.BDD.Model;
 
 /**
  * Created by admin on 3/15/2018.

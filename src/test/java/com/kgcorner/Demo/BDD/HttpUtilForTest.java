@@ -1,4 +1,4 @@
-package com.hyland.Demo.BDD;
+package com.kgcorner.Demo.BDD;
 
 import java.io.*;
 import java.net.HttpURLConnection;
